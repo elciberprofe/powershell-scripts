@@ -2,35 +2,37 @@
 
 <p>Proyecto destinado a <strong>FINES EDUCATIVOS</storng></p>
 
-## Descripción
-
-<p>Script que automatiza la descarga de un video generado por partes de manera dinámica.</p>
-
 ## Instalación y Ejecución
 
 1. Clonar el repositorio
 ```sh
   git clone https://github.com/elciberprofe/powershell-scripts.git
   ```
-2. Descomprimir ffmpeg.rar
-
-3. Abrir el terminal de PowerShell y acceder a la carpeta con todos los proyectos
+  
+2. Abrir el terminal de PowerShell y acceder a la carpeta con todos los proyectos
 ```sh
   cd 'C:\Users\elciberprofe\powershell-scripts'
   ```
 
+3. Seleccionar uno de los proyectos y acceder a su respectiva carpeta
+
 ## Proyecto Descargar Videos (1. Descargar Videos)
+
+## Descripción
+
+<p>Script que automatiza la descarga de un video generado por partes de manera dinámica.</p>
 
 1. Acceder al proyecto de descarga de videos
 ```sh
   cd 'C:\Users\elciberprofe\powershell-scripts\1.\ Descargar\ Videos/'
   ```
+2. Descomprimir ffmpeg.rar
 
-2. Ejecutar el script
+3. Ejecutar el script
 ```sh
   .\descargaVideo-v1.ps1
   ```
-3. Reproducir el video generado
+4. Reproducir el video generado
 
 ## Ejercicios a Desarrollar (1. Descargar Videos)
 
@@ -42,6 +44,10 @@
 6. Mejora el SCRIPT para que a partir de una URL real con todos los videos realice la descarga de todos ellos
 
 ## Proyecto Descargar Fotos (2. Descargar Fotos)
+
+## Descripción
+
+<p>Script que automatiza la descarga de imágenes de una página web.</p>
 
 1. Acceder al proyecto de descarga de videos
 ```sh
